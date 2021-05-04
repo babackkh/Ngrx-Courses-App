@@ -17,5 +17,10 @@
       "dom",
       "ES2017.object"
     ]
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "preserveWhitespaces": true,
+    "strictTemplates": true
   }
 }
